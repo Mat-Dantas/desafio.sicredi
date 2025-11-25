@@ -1,0 +1,22 @@
+==================================================
+RELATÓRIO DE ESTOQUE
+==================================================
+
+1. Valor Total do Estoque:
+   R$ 27.290,87
+
+2. Produto Mais Caro:
+   Produto: Cadeira Gamer
+   Preço: R$ 1.899,90
+
+3. Produto Mais Barato:
+   Produto: Mouse Gamer
+   Preço: R$ 150,00
+
+4. Produtos com Quantidade Abaixo de 5 Unidades:
+   - Teclado Mecânico (Quantidade: 3 | Preço: R$ 350,99)
+   - Webcam Full HD (Quantidade: 4 | Preço: R$ 220,75)
+   - Cadeira Gamer (Quantidade: 1 | Preço: R$ 1.899,90)
+
+==================================================
+FIM DO RELATÓRIO
